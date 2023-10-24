@@ -8,7 +8,7 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: Tuesday 23rd August 2022, 09:30 - 16:30 BST, online</h3>
+<h3>David Henty EPCC: Wednesday 1st November 2023, 09:30 - 16:30 BST, online</h3>
 
 One of the greatest challenges to running parallel applications on
 large numbers of processors is how to handle file IO. Standard Unix IO
@@ -35,6 +35,8 @@ IO libraries, but the Fortran source code provided for the
 benchmarking application used in the practical sessions should be
 useful reference material.
 
+All attendees will be given access to ARCHER2 for the duration of the course.
+
 <h3>Prerequisites</h3>
 
 Prerequisites: The course assumes an understanding of basic MPI
@@ -59,19 +61,19 @@ this run, but is made available here for reference.</blockquote></p>
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Tuesday 23rd August 2022</h4>
+<h4>Wednesday 1st November 2023</h4>
 
- * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
- * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
+ * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
+ * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
  * 10:45 - 11:00 : Practical: Basic IO performance
  * 11:00 - 11:30 : Break
  * 11:30 - 12:00 : Practical: Basic IO performance (cont)
- * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
+ * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
  * 12:45 - 13:00 : Practical: MPI-IO performance
  * 13:00 - 14:00 : Lunch
- * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
+ * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
- * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
+ * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
  * 15:30 - 16:00 : Break
  * 16:00 - 16:30 : Q&A / Finish exercises
  * 16:30         : CLOSE
@@ -87,7 +89,7 @@ repository](https://www.archer2.ac.uk/training/courses/220713-parallel-io-vt/).
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
+Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
 
 ---
 
