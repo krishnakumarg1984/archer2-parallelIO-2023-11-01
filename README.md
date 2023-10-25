@@ -52,7 +52,7 @@ administrative privileges on.
 
 They are also required to abide by the [ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
 
-<h3>Timetable (all times are in BST, GMT+1)</h3>
+<h3>Timetable (UK time, GMT)</h3>
 
 <p><blockquote>This is still a draft course page and the material
 below comes from a previous run of this course. It will be updated for
