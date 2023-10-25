@@ -8,7 +8,8 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: Wednesday 1st November 2023, 09:30 - 16:30 BST, online</h3>
+<h3>David Henty EPCC: Wednesday 1st November 2023, 09:30 - 16:30 UK
+time (GMT), online</h3>
 
 One of the greatest challenges to running parallel applications on
 large numbers of processors is how to handle file IO. Standard Unix IO
